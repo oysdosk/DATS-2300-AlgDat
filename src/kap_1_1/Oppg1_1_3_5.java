@@ -1,4 +1,4 @@
-package kap_1_1_uke34;
+package kap_1_1;
 
 public class Oppg1_1_3_5 {
     public static int[] minmaks(int[] a){
