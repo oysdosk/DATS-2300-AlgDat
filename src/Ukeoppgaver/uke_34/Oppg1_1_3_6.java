@@ -1,4 +1,4 @@
-package kap_1_1;
+package Ukeoppgaver.uke_34;
 
 public class Oppg1_1_3_6 {
     public static int fakultet(int n){

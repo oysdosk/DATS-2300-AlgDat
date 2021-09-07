@@ -1,4 +1,4 @@
-package kap_1_1;
+package Ukeoppgaver.uke_34;
 
 public class Oppg1_1_4_1 {
     public static int maks(int[] a)   // versjon 2 av maks-metoden

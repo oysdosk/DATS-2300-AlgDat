@@ -1,4 +1,4 @@
-package kap_1_1;
+package Ukeoppgaver.uke_34;
 
 public class Oppg1_1_5_1 {
     public static void main(String[] args) {

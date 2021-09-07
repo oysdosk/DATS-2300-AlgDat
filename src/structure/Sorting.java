@@ -1,6 +1,8 @@
-package kap_1_1;
+package structure;
 
 // Skal sortere en liste med tall fra høyest til lavest.
+// Lage test: alt + enter, JUnit5,
+
 public class Sorting {
 
     public static void main(String[] args) {

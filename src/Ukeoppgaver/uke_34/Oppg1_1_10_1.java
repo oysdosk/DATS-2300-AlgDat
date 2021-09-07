@@ -1,4 +1,4 @@
-package kap_1_1;
+package Ukeoppgaver.uke_34;
 
 import java.util.*;
 

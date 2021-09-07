@@ -1,4 +1,4 @@
-package kap_1_1;
+package structure;
 
 public class HighestNumber {
     public static void main(String[] args){
