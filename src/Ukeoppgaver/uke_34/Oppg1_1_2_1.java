@@ -14,6 +14,7 @@ public class Oppg1_1_2_1 {
 
         System.out.println("Det laveste tallet er " + lowestNumber + ".");
         System.out.println("Indeksen til det laveste tallet er " + minimumIndex(numbers) + ".");
+
     }
 
     // Metode for å finne indeksen til det samme tallet;
